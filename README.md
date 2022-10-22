@@ -1,4 +1,4 @@
-﻿# java-exceptions
+# java-exceptions
 Java project to pratice how to handle exceptions in java.
 <hr>
 # Palavras Reservadas:
